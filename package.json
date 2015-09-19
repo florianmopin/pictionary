@@ -1,0 +1,28 @@
+{
+  "name": "pictionary",
+  "version": "1.0.0",
+  "description": "A pictionory game made with nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/florianmopin/pictionary.git"
+  },
+  "keywords": [
+    "game",
+    "pictionary",
+    "nodejs"
+  ],
+  "author": "Florian mopin @MopinFlorian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/florianmopin/pictionary/issues"
+  },
+  "homepage": "https://github.com/florianmopin/pictionary#readme",
+  "dependencies": {
+    "koa": "^1.0.0",
+    "lodash": "^3.10.1"
+  }
+}
